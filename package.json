@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "name": "@hitomihiumi/apex-legends-api",
+  "description": "Soon there will be a module using the Apex Legends API (not official)",
+  "type": "module",
+  "version": "1.1.1b",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitomihiumi/apex-legends-api.git"
+  },
+  "keywords": [
+    "apex-legends",
+    "apex",
+    "apex-api",
+    "apex-legends-api"
+  ],
+  "author": "hitomihiumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitomihiumi/apex-legends-api/issues"
+  },
+  "homepage": "https://github.com/hitomihiumi/apex-legends-api#readme"
+}
